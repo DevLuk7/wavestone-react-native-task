@@ -1,4 +1,4 @@
-# Wavestone Recruitment Task: Senior React Native Developer
+# Wavestone Recruitment Task: React Native Developer
 
 ## Application Overview
 
