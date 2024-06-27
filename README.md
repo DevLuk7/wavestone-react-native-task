@@ -2,7 +2,7 @@
 
 ## Application Overview
 
-Develop a React Native application for managing products in a store. This application will feature user authentication and CRUD (Create, Read, Update, Delete) operations for products. The application will utilize Redux for state management and include middleware to interact with an API for product management.
+Develop a React Native application for managing products in a store. This application will feature user authentication and CRUD (Create, Read, Update, Delete) operations for products. The application will utilize Redux for state management and include middleware to interact with an API for product management. You are free to use any library you deem necessary, but Redux is required.
 
 ## Features
 
